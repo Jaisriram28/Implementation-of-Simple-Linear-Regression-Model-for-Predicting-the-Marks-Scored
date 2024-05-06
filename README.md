@@ -28,9 +28,6 @@ Step8: Stop the program
 
 
 
-
-
-```
 ## Program:
 ```
 /*
@@ -82,7 +79,7 @@ print("RMSE = ",rmse)
 
 
 
-
+```
 ## Output:
 ![Screenshot (67)](https://github.com/yashwanthrajadurai/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/128462316/e751fe7f-ec30-48e0-a99b-5737aee164c8)
 ![Screenshot (68)](https://github.com/yashwanthrajadurai/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/128462316/89d3d404-817e-49d7-87d2-4aa024ea596c)
