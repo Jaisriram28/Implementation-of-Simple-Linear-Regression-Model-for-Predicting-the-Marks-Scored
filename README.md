@@ -27,6 +27,10 @@ Step8: Stop the program
 
 
 
+
+
+
+```
 ## Program:
 ```
 /*
@@ -77,7 +81,7 @@ rmse=np.sqrt(mse)
 print("RMSE = ",rmse)
 
 
-```
+
 
 ## Output:
 ![Screenshot (67)](https://github.com/yashwanthrajadurai/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/128462316/e751fe7f-ec30-48e0-a99b-5737aee164c8)
